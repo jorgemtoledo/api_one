@@ -1,4 +1,4 @@
-# README
+# Using Rails for API Applications [![Build Status](https://travis-ci.org/doamaral/apirails.svg?branch=master)](https://travis-ci.org/doamaral/apirails)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
